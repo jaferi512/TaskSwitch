@@ -1,3 +1,5 @@
+Pseudo code for any n number of unsorted array provided:
+
 Begin
 Input Unsorted Array To Function
 Sort the unsorted array first

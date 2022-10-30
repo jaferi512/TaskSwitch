@@ -17,7 +17,8 @@
     "react-native-vector-icons": "^9.2.0",
     "react-redux": "^8.0.4",
     "redux": "^4.2.0",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "ts-jest": "^29.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
