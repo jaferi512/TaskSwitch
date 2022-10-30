@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
 
-class Test extends Component {
+class TestJest extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -36,4 +36,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export {Test};
+export {TestJest};

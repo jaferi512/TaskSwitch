@@ -5,11 +5,11 @@
 import 'react-native';
 import React from 'react';
 //import App from '../App';
-import { Test } from './Test';
+import { TestJest } from './TestJest';
 
 // Note: test renderer must be required after react-native.
 import renderer from 'react-test-renderer';
 
 it('renders correctly', () => {
-  renderer.create(<Test />);
+  renderer.create(<TestJest />);
 });
