@@ -1,0 +1,13 @@
+Begin
+Input Unsorted Array To Function
+Sort the unsorted array first
+Determine data = data.sort((a, b) => a - b)
+Get Max and Min Arrays From Above result
+Get Max by maxSet = data.slice(1)
+Get Min by minSet = data.slice(0, -1)
+Calculate Some Of Sorted Array
+Determin sum = data.reduce((a, total) => a + total, 0)
+Find Max Sum by determinig sum - data[0]
+Find Min Sum By determinig sum - data[data.length - 1]
+Print Output by this way  `Minimum = ${sum - data[data.length - 1]} \n Maximum = ${sum - data[0]}`
+End
